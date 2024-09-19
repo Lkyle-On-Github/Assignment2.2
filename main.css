@@ -1,0 +1,44 @@
+.NSO {
+/* Gamer font */
+    font-family: "zpix";
+    font-weight: 900;
+    font-size: 12px;
+
+    
+}
+    
+.GamerMode {
+/* Gamer colors */
+    background-color: black;
+    color: #20ff00;
+    font-family: "Courier";
+}
+
+.GGfont {
+    font-family: "GGfont_STRIVE";
+    font-size: 233%;
+    text-align: left;
+}
+
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#stopBeatingAroundDaBush {
+    margin-right: 200px;
+    width:370px;
+    height:375px;
+}
